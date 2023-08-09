@@ -19,6 +19,9 @@ def get_coordsPOI(POI, maps_api_key = "gmapsAPIKeys"):
 
 
 def get_directions(api_key, origin, destination):
+    """this function will return the directions from an origin point (the position of the user) to a destination.
+    We'll use show the direction on our interactive map.
+    """
   
     gmaps = googlemaps.Client(key=api_key)
     
