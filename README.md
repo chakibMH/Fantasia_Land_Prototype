@@ -44,7 +44,7 @@ Découvrez l'Algérie sous un nouvel angle grâce à notre carte interactive qui
 ## AdventureMakers
 Les AdventureMakers sont l'épine dorsale de notre plateforme, permettant de créer et partager des expériences uniques pour les voyageurs. Le processus est simple et efficace : les AdventureMakers peuvent concevoir leurs propres sorties et activités directement depuis l'application NUMIDIA.
 
-## Comment ça fonctionne
+### Comment ça fonctionne
 
 1. **Création Personnalisée:** Les AdventureMakers ajoutent des détails essentiels tels que l'itinéraire, les horaires, le nombre de participants, les frais éventuels et des images pour illustrer l'expérience.
 
