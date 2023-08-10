@@ -42,7 +42,6 @@ Prompt Engineering représente une approche au sein du domaine de l'intelligence
 
 Les Larges Language Models (modèles de langage de grande taille) sont des algorithmes d'apprentissage automatique basés sur l'intelligence artificielle, spécialement conçus pour traiter et générer du langage naturel. Ces modèles sont entraînés sur d'énormes quantités de données textuelles, ce qui leur permet de comprendre et de générer des textes humains de manière très précise. Ils sont utilisés dans divers domaines, tels que la traduction automatique, la génération de texte, l'analyse de sentiment, et bien d'autres applications impliquant le traitement du langage naturel.
 
-**Note :** Dans notre cas, le Prompt Engineering avec les larges Langage Models seront utilisés pour créer en continu du contenu personnalisé et varié, incluant les scénarios des quêtes de chasse de trésors ainsi que les indices en forme de dialogue des personnages.
 
 - **Deep Learning:**
 
