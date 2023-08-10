@@ -71,3 +71,6 @@ L'élaboration de NUMIDIA exigera l'intégration de diverses technologies afin d
 
 - **Object Détection :** La détection d'objets est une technique d'intelligence artificielle qui permet d'identifier et de localiser des objets spécifiques dans une image ou une vidéo. Cela se fait en utilisant des modèles de vision par ordinateur, tels que les réseaux de neurones convolutifs (CNN), qui analysent l'image pixel par pixel pour détecter et catégoriser les objets présents. La détection d'objets est utilisée dans de nombreuses applications pratiques, telles que la détection de visages, la reconnaissance d'objets, la surveillance, l'automatisation industrielle, et bien d'autres.
 
+---
+
+## Outils 
