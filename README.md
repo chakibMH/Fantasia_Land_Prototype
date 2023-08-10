@@ -1,8 +1,8 @@
 # Description du projet
 Dans notre projet, nous proposons une approche novatrice et personnalisée pour la planification de sorties. Disposer de données fiables et mises à jour a été l'un de nos principaux défis. Nous proposons une méthode révolutionnaire pour résoudre ce problème. Que ce soit une sortie entre amis ou en solitaire, que ce soit pour passer une journée entière à l'extérieur ou seulement quelques heures, notre application basée sur l'intelligence artificielle répond aux besoins de tout type d'utilisateur. Elle offre des fonctionnalités conviviales qui rendent l'expérience plus agréable et procurent un sentiment de sécurité et de contrôle aux touristes étrangers.
 
-# Details techniques
 
+# Description des fonctionnalités
 ## Evenements Environmentaux 
 Découvrez une nouvelle dimension de voyage en explorant des événements environnementaux passionnants, divisés en trois catégories captivantes :
 
@@ -42,3 +42,17 @@ Découvrez l'Algérie sous un nouvel angle grâce à notre carte interactive qui
 
 
 ## AdventureMakers
+Les AdventureMakers sont l'épine dorsale de notre plateforme, permettant de créer et partager des expériences uniques pour les voyageurs. Le processus est simple et efficace : les AdventureMakers peuvent concevoir leurs propres sorties et activités directement depuis l'application NUMIDIA.
+
+## Comment ça fonctionne
+
+1. **Création Personnalisée:** Les AdventureMakers ajoutent des détails essentiels tels que l'itinéraire, les horaires, le nombre de participants, les frais éventuels et des images pour illustrer l'expérience.
+
+2. **Visibilité sur la Carte :** Une fois la sortie créée, elle est affichée sur notre carte géographique artistique. Cela permet aux voyageurs de découvrir les options uniques offertes par les AdventureMakers dans chaque région d'Algérie.
+
+3. **Inscription Facile :** Les voyageurs intéressés peuvent s'inscrire en un clic directement depuis l'application NUMIDIA, rendant l'expérience de réservation rapide et fluide.
+
+Les AdventureMakers apportent une touche personnelle et une variété d'expériences aux voyageurs, enrichissant ainsi leur exploration de l'Algérie.
+
+# Details techniques
+
