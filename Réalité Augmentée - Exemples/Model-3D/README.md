@@ -1,4 +1,4 @@
-# Projet -02- (Objet 3D) de Réalité Augmentée avec Unity
+# Prototype -02- (Objet 3D) de Réalité Augmentée avec Unity
 
 Ce projet de réalité augmentée Unity permet aux utilisateurs de transformer un objet 2D dans une image en un objet 3D ! Lorsque l'utilisateur oriente l'appareil photo de son téléphone vers l'image désignée, l'objet 3D apparaît, donnant l'impression que l'objet se trouve juste devant lui.
 
