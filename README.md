@@ -3,7 +3,7 @@ Dans notre projet, nous proposons une approche novatrice et personnalisée pour 
 
 
 # Description des fonctionnalités
-## Evenements Environmentaux 
+## 1. Evenements Environmentaux 
 Découvrez une nouvelle dimension de voyage en explorant des événements environnementaux passionnants, divisés en trois catégories captivantes :
 
 1. Jeux en Réalité Augmentée
@@ -24,7 +24,7 @@ Explorez, apprenez et plongez-vous dans l'histoire avec nos expériences enrichi
 
 ---
 
-## Carte interactive
+## 2. Carte interactive
 Explorez l'Algérie d'une manière nouvelle et captivante grâce à notre carte géographique interactive unique. Contrairement aux applications de navigation GPS traditionnelles, notre carte est bien plus qu'un simple outil de guidage. Elle se présente comme une œuvre d'art inspirée des cartes ludiques de Disneyland et de l'architecture distinctive de chaque ville algérienne.
 
 ### Caractéristiques Principales
@@ -42,7 +42,7 @@ Découvrez l'Algérie sous un nouvel angle grâce à notre carte géographique q
 
 ---
 
-## AdventureMakers
+## 3. AdventureMakers
 Les AdventureMakers sont l'épine dorsale de notre plateforme, permettant de créer et partager des expériences uniques pour les voyageurs. Le processus est simple et efficace : les AdventureMakers peuvent concevoir leurs propres sorties et activités directement depuis l'application NUMIDIA.
 
 ### Comment ça fonctionne
