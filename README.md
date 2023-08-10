@@ -47,11 +47,11 @@ Les AdventureMakers sont l'épine dorsale de notre plateforme, permettant de cr�
 
 ### Comment ça fonctionne
 
-1. **Création Personnalisée:** Les AdventureMakers ajoutent des détails essentiels tels que l'itinéraire, les horaires, le nombre de participants, les frais éventuels et des images pour illustrer l'expérience.
+- **Création Personnalisée:** Les AdventureMakers ajoutent des détails essentiels tels que l'itinéraire, les horaires, le nombre de participants, les frais éventuels et des images pour illustrer l'expérience.
 
-2. **Visibilité sur la Carte :** Une fois la sortie créée, elle est affichée sur notre carte géographique artistique. Cela permet aux voyageurs de découvrir les options uniques offertes par les AdventureMakers dans chaque région d'Algérie.
+- **Visibilité sur la Carte :** Une fois la sortie créée, elle est affichée sur notre carte géographique artistique. Cela permet aux voyageurs de découvrir les options uniques offertes par les AdventureMakers dans chaque région d'Algérie.
 
-3. **Inscription Facile :** Les voyageurs intéressés peuvent s'inscrire en un clic directement depuis l'application NUMIDIA, rendant l'expérience de réservation rapide et fluide.
+- **Inscription Facile :** Les voyageurs intéressés peuvent s'inscrire en un clic directement depuis l'application NUMIDIA, rendant l'expérience de réservation rapide et fluide.
 
 Les AdventureMakers apportent une touche personnelle et une variété d'expériences aux voyageurs, enrichissant ainsi leur exploration de l'Algérie.
 
