@@ -27,6 +27,16 @@ La carte géographique de NUMIDIA met en évidence les lieux symboliques et icon
 Le fonctionnement des AdventureMakers est simple et efficace. Ils peuvent créer leurs sorties et activités directement depuis l'application NUMIDIA en ajoutant des détails tels que l'itinéraire, les horaires, le nombre de participants, les frais éventuels, et même des images pour illustrer l'expérience. Une fois la sortie créée, elle sera visible par les voyageurs sur la carte géographique artistique, leur permettant de découvrir les différentes options proposées par les AdventureMakers dans chaque région d'Algérie.
 Les voyageurs intéressés peuvent s'inscrire directement depuis l'application NUMIDIA.
 
+- **Utilisation simplifiee :**
+
+Grâce à l'application de la technologie de Reconnaissance d'Entités Nommées, les AdventureMakers n'auront qu'à copier-coller leurs publications habituelles sur les réseaux sociaux. Notre système détectera automatiquement les informations essentielles telles que l'itinéraire, les horaires, le nombre de participants ainsi que les éventuels frais, pour ensuite les intégrer dans une base de données relationnelle. Cette base de données sera ensuite synchronisée avec la carte interactive de notre application, offrant ainsi des mises à jour en temps réel.
+
+- **Connectivité rapide :**
+
+Les voyageurs intéressés pourront s'inscrire en un simple clic directement depuis l'application NUMIDIA, garantissant une expérience de réservation rapide et fluide. Nous envisageons également d'offrir diverses méthodes d'inscription, telles que l'utilisation de vos comptes existants sur les réseaux sociaux. Cette option permettrait aux voyageurs de partager leurs expériences sur d'autres plateformes, notamment sous forme d'histoires, de manière beaucoup plus aisée.
+
+Cette fonctionnalité se révèle tout aussi avantageuse pour les *AdventureMakers*, car elle facilitera grandement le partage rapide de leur contenu sur d'autres plateformes.
+
 # Details techniques
 ## Technologies
 L'élaboration de NUMIDIA exigera l'intégration de diverses technologies afin d'assurer un fonctionnement sans heurts, une expérience immersive pour les utilisateurs et des fonctionnalités avancées. Voici les technologies essentielles à prendre en compte :
