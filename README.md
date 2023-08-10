@@ -10,7 +10,7 @@ Découvrez une nouvelle dimension de voyage en explorant des événements enviro
 2. Documentaires
 3. Reconstitutions Historiques
 
-## Comment ça fonctionne
+### Comment ça fonctionne
 
 Lorsque vous atteignez un lieu touristique clé ou que vous approchez l'un de ces sites emblématiques, notre application déclenche une notification contextuelle sur votre smartphone. Cette notification attire votre attention sur un événement spécial en réalité augmentée qui vous attend à cet endroit précis.
 
