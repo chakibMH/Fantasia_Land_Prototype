@@ -56,5 +56,5 @@ Les AdventureMakers sont l'épine dorsale de notre plateforme, permettant de cr�
 Les AdventureMakers apportent une touche personnelle et une variété d'expériences aux voyageurs, enrichissant ainsi leur exploration de l'Algérie.
 
 # Details techniques
-##Technologies
+## Technologies
 L'élaboration de NUMIDIA exigera l'intégration de diverses technologies afin d'assurer un fonctionnement sans heurts, une expérience immersive pour les utilisateurs et des fonctionnalités avancées. Voici les technologies essentielles à prendre en compte :
