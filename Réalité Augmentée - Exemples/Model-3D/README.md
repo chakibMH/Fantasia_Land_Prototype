@@ -14,7 +14,7 @@ Ce projet de réalité augmentée Unity permet aux utilisateurs de transformer u
 
 Vous pouvez accéder au fichier APK et à l'image cible en cliquant sur le lien ci-dessous :
 
-[![Téléchargement](https://drive.google.com/uc?id=1bHSe1BdeZM2ivPw8bLUctXy_kPGx-BZq)](https://drive.google.com/drive/folders/1bHSe1BdeZM2ivPw8bLUctXy_kPGx-BZq?usp=sharing)
+https://drive.google.com/drive/folders/1bHSe1BdeZM2ivPw8bLUctXy_kPGx-BZq?usp=sharing
 
 Explorez le monde passionnant de la réalité augmentée et découvrez comment les objets 2D prennent vie en 3D sous vos yeux !
 
