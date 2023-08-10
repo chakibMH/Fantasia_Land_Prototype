@@ -39,7 +39,7 @@ Explorez l'Algérie d'une manière nouvelle et captivante grâce à notre carte 
 Notre carte géographique numérique unique facilite l'exploration de l'Algérie. Elle vous guide non seulement vers les incontournables, mais elle révèle également les endroits cachés et les événements spéciaux. Grâce à une intégration fluide avec notre application, vous pourrez plonger dans des expériences en réalité augmentée, interagir avec des éléments historiques et culturels, et profiter d'une exploration authentique et engageante.
 
 Découvrez l'Algérie sous un nouvel angle grâce à notre carte interactive qui fait de chaque voyage une aventure inoubliable !
-
+---
 
 ## AdventureMakers
 Les AdventureMakers sont l'épine dorsale de notre plateforme, permettant de créer et partager des expériences uniques pour les voyageurs. Le processus est simple et efficace : les AdventureMakers peuvent concevoir leurs propres sorties et activités directement depuis l'application NUMIDIA.
