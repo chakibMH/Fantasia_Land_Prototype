@@ -29,12 +29,16 @@ Explorez l'Algérie d'une manière nouvelle et captivante grâce à notre carte 
 
 ### Caractéristiques Principales
 
-- Mettant en valeur les lieux emblématiques : Notre carte exclusive met en évidence les joyaux culturels et historiques du pays. Elle offre une expérience visuelle distinctive qui guide les voyageurs à travers les sites emblématiques ainsi que les trésors cachés de l'Algérie.
+- Met en évidence les lieux symboliques et emblématiques d'Algérie, incluant les monuments historiques, les sites naturels exceptionnels et les quartiers culturels.
+- Intègre les emplacements des événements environnementaux en réalité augmentée, ainsi que les activités proposées par les AdventureMakers.
+- Offre une dimension interactive à l'exploration touristique, permettant aux voyageurs de découvrir le pays de manière immersive et participative.
 
-- Exploration immersive : La carte géographique de NUMIDIA est conçue pour offrir une expérience immersive. Elle présente les monuments historiques, les sites naturels exceptionnels et les quartiers culturels, offrant ainsi une vue d'ensemble des richesses du pays.
 
-- Réalité augmentée et activités interactives : Cette carte ne se contente pas de montrer des lieux, elle ajoute une dimension interactive à l'exploration touristique. Les lieux des événements environnementaux en réalité augmentée ainsi que les activités proposées par les AdventureMakers sont également marqués sur la carte, encourageant les voyageurs à découvrir le pays de manière interactive.
+### Comment ça fonctionne
 
-Découvrez l'Algérie sous un nouvel angle grâce à notre carte géographique qui allie esthétique et fonctionnalité !
+Notre carte géographique numérique unique facilite l'exploration de l'Algérie. Elle vous guide non seulement vers les incontournables, mais elle révèle également les endroits cachés et les événements spéciaux. Grâce à une intégration fluide avec notre application, vous pourrez plonger dans des expériences en réalité augmentée, interagir avec des éléments historiques et culturels, et profiter d'une exploration authentique et engageante.
+
+Découvrez l'Algérie sous un nouvel angle grâce à notre carte interactive qui fait de chaque voyage une aventure inoubliable !
+
 
 ## AdventureMakers
