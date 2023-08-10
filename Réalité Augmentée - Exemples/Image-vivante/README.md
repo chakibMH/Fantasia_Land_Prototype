@@ -1,4 +1,4 @@
-# Projet -01- (Image Vivante!) de Réalité Augmentée avec Unity
+# Prototype -01- (Image Vivante!) de Réalité Augmentée avec Unity
 
 Ce projet Unity de réalité augmentée permet aux utilisateurs de transformer un personnage d'une image en un être vivant ! Lorsque l'utilisateur dirige l'appareil photo de son téléphone vers l'image désignée, la vidéo est déclenchée et commence à être diffusée, créant ainsi la sensation d'un personnage vivant.
 
