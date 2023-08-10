@@ -1,6 +1,9 @@
 # Description du projet
 Dans notre projet, nous proposons une approche novatrice et personnalisée pour la planification de sorties. Disposer de données fiables et mises à jour a été l'un de nos principaux défis. Nous proposons une méthode révolutionnaire pour résoudre ce problème. Que ce soit une sortie entre amis ou en solitaire, que ce soit pour passer une journée entière à l'extérieur ou seulement quelques heures, notre application basée sur l'intelligence artificielle répond aux besoins de tout type d'utilisateur. Elle offre des fonctionnalités conviviales qui rendent l'expérience plus agréable et procurent un sentiment de sécurité et de contrôle aux touristes étrangers.
 
+<br />
+
+À ce jour, certaines fonctionnalités de notre application ont été pleinement réalisées et sont opérationnelles, offrant ainsi une expérience exceptionnelle aux utilisateurs. Cependant, il est important de noter que d'autres fonctionnalités passionnantes sont actuellement en cours de réalisation.
 
 # Description des fonctionnalités
 ## 1. Evenements Environmentaux 
