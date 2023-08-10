@@ -20,8 +20,6 @@ Pour vivre une véritable immersion dans le passé, les reconstitutions historiq
   <img src="https://github.com/chakibMH/NUMIDIA/blob/main/images/Capture.PNG" alt="Reconstitution Historique">
 </div>
 
-![Reconstitution Historique](https://github.com/chakibMH/NUMIDIA/blob/main/images/Capture.PNG)  ![Jeux](https://github.com/chakibMH/NUMIDIA/blob/main/images/Capture3.PNG)
-
 ---
 
 ## 2. Carte interactive
