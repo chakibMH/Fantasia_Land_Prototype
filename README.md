@@ -15,7 +15,7 @@ Une fois la notification reçue, les utilisateurs pourront simplement ouvrir l'a
 Lorsqu'ils souhaitent en apprendre davantage sur la signification d'un lieu ou découvrir son histoire, les utilisateurs pourront visionner les courts documentaires proposés dans l'application. En un simple clic, ils accèderont à des vidéos captivantes, fournissant des informations pertinentes et fascinantes sur les sites qu'ils explorent.
 Pour vivre une véritable immersion dans le passé, les reconstitutions historiques en réalité augmentée offriront une expérience sensorielle unique. Les utilisateurs pourront pointer leur smartphone vers des éléments architecturaux ou des objets spécifiques dans le paysage pour voir des scènes animées de l'époque passée se dérouler sous leurs yeux.
 
-![Project Logo]([https://example.com/images/logo.png](https://github.com/chakibMH/NUMIDIA/blob/main/images/Capture.PNG))
+![Project Logo](https://github.com/chakibMH/NUMIDIA/blob/main/images/Capture.PNG)
 
 ---
 
