@@ -74,3 +74,27 @@ L'élaboration de NUMIDIA exigera l'intégration de diverses technologies afin d
 ---
 
 ## Outils 
+
+Découvrez les technologies clés qui contribuent au développement de NUMIDIA :
+
+- **Blender :**
+
+Blender est un logiciel open-source de modélisation 3D, d'animation, de rendu et de création d'effets visuels. Il trouve une large utilisation dans l'industrie cinématographique, du jeu vidéo, de la publicité et de l'animation pour concevoir des graphismes et des animations 3D de haute qualité.
+
+- **Unity :**
+
+Unity est une plateforme de développement de jeux multiplateforme qui permet aux créateurs de développer des jeux en 2D et 3D pour différentes plateformes, telles que les PC, les consoles, les appareils mobiles et la réalité virtuelle. Unity offre un éventail complet d'outils et de fonctionnalités pour la conception, le développement, la publication et la monétisation de jeux.
+
+- **Environnements de Développement Intégrés (IDE) pour le Développement Mobile (Android, iOS) :**
+
+Les IDE pour le développement mobile, tels qu'Android Studio pour Android et Xcode pour iOS, facilitent la création d'applications pour les plateformes mobiles. Ils fournissent des fonctionnalités de codage, de débogage, de test, de simulation et de déploiement pour simplifier le processus de développement d'applications mobiles.
+
+- **Amazon Web Services (AWS) :**
+
+Amazon Web Services (AWS) est une plateforme de cloud computing proposée par Amazon. Elle offre une gamme complète de services cloud, comprenant le stockage, les bases de données, les serveurs virtuels, l'analyse de données, l'intelligence artificielle, la sécurité, etc. AWS permet aux entreprises de bénéficier d'une infrastructure évolutive et flexible sans avoir à gérer physiquement leurs propres serveurs.
+
+- **Hugging Face :**
+
+Hugging Face est une plateforme spécialisée dans la publication de modèles de deep learning, en particulier pour les tâches de traitement du langage naturel (NLP). La plateforme propose des modèles pré-entraînés de pointe pour des tâches spécifiques en NLP, en vision par ordinateur, et plus encore. Elle offre également des outils et des API pour simplifier le développement d'applications basées sur le traitement du langage naturel.
+
+Ces technologies jouent un rôle essentiel dans la création d'une expérience exceptionnelle avec NUMIDIA, en fusionnant des mondes virtuels et réels de manière innovante et immersive.
