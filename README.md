@@ -28,7 +28,7 @@ Contrairement aux applications de navigation GPS traditionnelles, notre carte es
 La carte géographique de NUMIDIA met en évidence les lieux symboliques et iconiques de l'Algérie, tels que les monuments historiques, les sites naturels exceptionnels et les quartiers culturels. Elle inclut également les lieux des événements environnementaux en réalité augmentée, ainsi que les activités proposées par les AdventureMakers. Cela apporte une dimension interactive à l'exploration touristique et permet aux voyageurs de découvrir le pays de manière plus interactive.
 
 <div align="center">
-  <img src="https://github.com/chakibMH/NUMIDIA/blob/main/images/Capture4.PNG" alt="Carte interactive">
+  <img src="https://github.com/chakibMH/NUMIDIA/blob/main/images/Capture5.PNG" alt="Carte interactive">
 </div>
 
 
