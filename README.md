@@ -1,3 +1,18 @@
+## *Update 🚀*  
+
+*We have successfully completed the development of our app, transforming the ideas from this prototype into a real-world product.*  
+
+### *🎉 Introducing "Aji"*  
+*"Aji" (which means "Come" in Arabic) is a mobile app for treasure hunts with Augmented Reality, designed for Fantasia Land, a local leisure park in Algiers.*  
+
+### *📊 Milestone Achieved*  
+*So far, around 100 players have experienced the game during past events.*  
+
+### *🔗 Stay Updated*  
+*Follow us on Instagram for the latest updates:*  
+[*@aji.dz.events*](https://www.instagram.com/aji.dz.events/?igsh=aWhwOXc3eW80djh0#)  
+
+
 # Description du projet
 Dans notre projet, nous proposons une approche novatrice et personnalisée pour la planification de sorties. Disposer de données fiables et mises à jour a été l'un de nos principaux défis. Nous proposons une méthode révolutionnaire pour résoudre ce problème. Que ce soit une sortie entre amis ou en solitaire, que ce soit pour passer une journée entière à l'extérieur ou seulement quelques heures, notre application basée sur l'intelligence artificielle répond aux besoins de tout type d'utilisateur. Elle offre des fonctionnalités conviviales qui rendent l'expérience plus agréable et procurent un sentiment de sécurité et de contrôle aux touristes étrangers.
 <br />
